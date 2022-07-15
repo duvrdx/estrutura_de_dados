@@ -1,6 +1,16 @@
-# **Lista encadeada**
+# Estrutura de Dados | 2022-1
+
+Esse repositório contém as estruturas desenvolvidas ao decorrer da disciplina. 
+
+- [Lista Encadeada](/Lista%20Encadeada/)
+- [Pilha](/Pilha/)
+- [Fila](/Fila/)
+
+Todos os códigos foram desenvolvidos utilizando a linguagem de programação ***C***.
+
+## **Lista encadeada**
 ____________________________________________________
-Código de lista encadeada desenvolvido em C, nas aulas de Estrutura de Dados. A lista tem a intenção de ser o mais parecida possível com uma lista Python, sendo uma lista dinâmica podendo conter diferentes tipos de dados. O **TAD** (Tipo Abstrato de Dado) da lista contém as seguintes funcionalidades:
+A lista tem a intenção de ser o mais parecida possível com uma lista Python, sendo uma lista dinâmica podendo conter diferentes tipos de dados. O **TAD** (Tipo Abstrato de Dado) da lista contém as seguintes funcionalidades:
 
 - cria_lista()
 - append_lista()
@@ -12,9 +22,9 @@ Código de lista encadeada desenvolvido em C, nas aulas de Estrutura de Dados. A
 > A descrição de cada uma dessas funções está em [tadlista.h](tadlista.h)
 ----------------------------------------------------
 
-# **Pilha**
+## **Pilha**
 ____________________________________________________
-Código de pilha desenvolvido em C, nas aulas de Estrutura de Dados. A pilha foi desenvolvida utilizando o conceito de **TAD**, reaproveitando as funcionalidades presentes na [Lista Encadeada](tadlista.h). O **TAD** (Tipo Abstrato de Dado) da lista contém as seguintes funcionalidades:
+A pilha foi desenvolvida utilizando o conceito de **TAD**, reaproveitando as funcionalidades presentes na [Lista Encadeada](tadlista.h). O **TAD** (Tipo Abstrato de Dado) da lista contém as seguintes funcionalidades:
 
 - cria_pilha()
 - empilha()
@@ -28,9 +38,9 @@ Código de pilha desenvolvido em C, nas aulas de Estrutura de Dados. A pilha foi
 > A descrição de cada uma dessas funções está em [tadpilha.h](tadpilha.h)
 ----------------------------------------------------
 
-# **Fila**
+## **Fila**
 ____________________________________________________
-Código de fila desenvolvido em C, nas aulas de Estrutura de Dados. A fila foi desenvolvida utilizando o conceito de **TAD**, reaproveitando as funcionalidades presentes na [Lista Encadeada](tadlista.h). O **TAD** (Tipo Abstrato de Dado) da lista contém as seguintes funcionalidades:
+A fila foi desenvolvida utilizando o conceito de **TAD**, reaproveitando as funcionalidades presentes na [Lista Encadeada](tadlista.h). O **TAD** (Tipo Abstrato de Dado) da lista contém as seguintes funcionalidades:
 
 - cria_fila()
 - enfileira()
